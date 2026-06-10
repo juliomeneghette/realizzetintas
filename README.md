@@ -1,22 +1,44 @@
-# Sistema de Parceiros - Realizze Tintas
+# 🏆 Sistema de Parceiros Realizze
 
-## Sobre o projeto
+## 📖 Sobre o Projeto
 
-Sistema desenvolvido para gerenciamento de parceiros e controle de pontuação baseada em campanhas e regras comerciais.
+Sistema desenvolvido para gerenciamento e acompanhamento de parceiros comerciais, permitindo o controle de pontuações e campanhas de incentivo.
 
-## Objetivo
+---
 
-Centralizar o acompanhamento dos parceiros e facilitar o controle de pontuações e benefícios.
+## 🎯 Objetivo
 
-## Funcionalidades
+Facilitar a gestão dos parceiros e fornecer maior transparência no acompanhamento das pontuações e benefícios.
+
+---
+
+## ⚙️ Funcionalidades
 
 - Cadastro de parceiros
-- Controle de pontuação
-- Acompanhamento de desempenho
-- Gestão de campanhas
+- Consulta de pontuação
+- Controle de campanhas
+- Visualização de resultados
+- Interface amigável
 
-## Tecnologias
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 - HTML
 - CSS
 - JavaScript
+
+---
+
+## 🚀 Benefícios
+
+- Organização das informações
+- Redução de controles manuais
+- Maior transparência para os parceiros
+- Facilidade de acompanhamento
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+Julio Meneghette
